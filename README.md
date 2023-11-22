@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lymoos&theme=synthwave&show_icons=true)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vwrqtxmod7ywceszvs6cwrrq6q)
