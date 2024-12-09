@@ -28,3 +28,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vwrqtxmod7ywceszvs6cwrrq6q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 -->
+
+markdown
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
